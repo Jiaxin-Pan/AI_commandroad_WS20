@@ -1,0 +1,27 @@
+2020-12-28 22:05:22,053	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 22:05:22,054	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 22:05:22,055	Batch Processor	INFO	ScenarioLoader Mode <SPECIFIC>
+2020-12-28 22:05:22,055	Batch Processor	INFO	Only run on specified scenarios:
+2020-12-28 22:05:22,055	Batch Processor	INFO	Processing 3 scenarios:
+2020-12-28 22:05:22,055	Batch Processor	INFO	   1 DEU_Flensburg-27_1_T-1
+2020-12-28 22:05:22,055	Batch Processor	INFO	   2 ITA_Scicli-2_1_T-1
+2020-12-28 22:05:22,055	Batch Processor	INFO	   3 USA_US101-9_1_T-1
+2020-12-28 22:05:22,060	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 22:05:22,060	Batch Processor	INFO	Motion planner: student_example
+2020-12-28 22:05:22,070	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 22:05:52,392	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 22:05:52,393	Batch Processor	INFO	[DEU_Flensburg-27_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 22:05:52,394	Batch Processor	INFO	[ITA_Scicli-2_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 22:05:52,394	Batch Processor	INFO	[USA_US101-9_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 22:05:52,395	Batch Processor	INFO	==============================           Time out           ==============================
+	- ITA_Scicli-2_1_T-1
+	- USA_US101-9_1_T-1
+	- DEU_Flensburg-27_1_T-1
+2020-12-28 22:05:52,395	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 22:05:52,395	Batch Processor	INFO	Total number of scenarios:  	         3
+2020-12-28 22:05:52,395	Batch Processor	INFO	Solution found:               	         0
+2020-12-28 22:05:52,395	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 22:05:52,396	Batch Processor	INFO	Solution not found:           	         0
+2020-12-28 22:05:52,396	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 22:05:52,396	Batch Processor	INFO	Time out:                     	         3

@@ -1,0 +1,64 @@
+2020-12-28 21:06:32,890	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 21:06:32,891	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 21:06:32,892	Batch Processor	INFO	ScenarioLoader Mode <SPECIFIC>
+2020-12-28 21:06:32,892	Batch Processor	INFO	Only run on specified scenarios:
+2020-12-28 21:06:32,892	Batch Processor	INFO	Processing 15 scenarios:
+2020-12-28 21:06:32,892	Batch Processor	INFO	   1 USA_US101-10_4_T-1
+2020-12-28 21:06:32,892	Batch Processor	INFO	   2 USA_US101-11_4_T-1
+2020-12-28 21:06:32,892	Batch Processor	INFO	   3 USA_US101-12_1_T-1
+2020-12-28 21:06:32,892	Batch Processor	INFO	   4 USA_US101-14_1_T-1
+2020-12-28 21:06:32,893	Batch Processor	INFO	   5 USA_US101-15_1_T-1
+2020-12-28 21:06:32,893	Batch Processor	INFO	   6 USA_US101-17_1_T-1
+2020-12-28 21:06:32,893	Batch Processor	INFO	   7 USA_US101-22_4_T-1
+2020-12-28 21:06:32,893	Batch Processor	INFO	   8 USA_US101-27_1_T-1
+2020-12-28 21:06:32,893	Batch Processor	INFO	   9 USA_US101-28_1_T-1
+2020-12-28 21:06:32,893	Batch Processor	INFO	  10 USA_US101-29_1_T-1
+2020-12-28 21:06:32,893	Batch Processor	INFO	  11 USA_US101-3_1_T-1
+2020-12-28 21:06:32,893	Batch Processor	INFO	  12 USA_US101-4_1_T-1
+2020-12-28 21:06:32,893	Batch Processor	INFO	  13 USA_US101-5_1_T-1
+2020-12-28 21:06:32,894	Batch Processor	INFO	  14 USA_US101-6_1_T-1
+2020-12-28 21:06:32,894	Batch Processor	INFO	  15 USA_US101-9_1_T-1
+2020-12-28 21:06:32,898	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 21:06:32,898	Batch Processor	INFO	Motion planner: student
+2020-12-28 21:06:32,908	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 21:08:03,975	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 21:08:03,976	Batch Processor	INFO	[USA_US101-10_4_T-1            ]	<FAILURE>	 Time [ms]:	  8091
+2020-12-28 21:08:03,977	Batch Processor	INFO	[USA_US101-11_4_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,977	Batch Processor	INFO	[USA_US101-12_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,978	Batch Processor	INFO	[USA_US101-14_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,978	Batch Processor	INFO	[USA_US101-15_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,978	Batch Processor	INFO	[USA_US101-17_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,978	Batch Processor	INFO	[USA_US101-22_4_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,979	Batch Processor	INFO	[USA_US101-27_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,979	Batch Processor	INFO	[USA_US101-28_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,979	Batch Processor	INFO	[USA_US101-29_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,979	Batch Processor	INFO	[USA_US101-3_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,980	Batch Processor	INFO	[USA_US101-4_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,980	Batch Processor	INFO	[USA_US101-5_1_T-1             ]	<FAILURE>	 Time [ms]:	   243
+2020-12-28 21:08:03,980	Batch Processor	INFO	[USA_US101-6_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,981	Batch Processor	INFO	[USA_US101-9_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:08:03,981	Batch Processor	INFO	==============================      Solution not found      ==============================
+	- USA_US101-10_4_T-1
+	- USA_US101-5_1_T-1
+2020-12-28 21:08:03,981	Batch Processor	INFO	==============================           Time out           ==============================
+	- USA_US101-12_1_T-1
+	- USA_US101-15_1_T-1
+	- USA_US101-11_4_T-1
+	- USA_US101-14_1_T-1
+	- USA_US101-17_1_T-1
+	- USA_US101-22_4_T-1
+	- USA_US101-29_1_T-1
+	- USA_US101-28_1_T-1
+	- USA_US101-27_1_T-1
+	- USA_US101-4_1_T-1
+	- USA_US101-3_1_T-1
+	- USA_US101-6_1_T-1
+	- USA_US101-9_1_T-1
+2020-12-28 21:08:03,981	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 21:08:03,982	Batch Processor	INFO	Total number of scenarios:  	        15
+2020-12-28 21:08:03,982	Batch Processor	INFO	Solution found:               	         0
+2020-12-28 21:08:03,982	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 21:08:03,982	Batch Processor	INFO	Solution not found:           	         2
+2020-12-28 21:08:03,982	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 21:08:03,983	Batch Processor	INFO	Time out:                     	        13

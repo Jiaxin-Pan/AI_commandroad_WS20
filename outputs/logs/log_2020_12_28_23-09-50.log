@@ -1,0 +1,34 @@
+2020-12-28 23:09:50,532	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 23:09:50,534	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 23:09:50,534	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2020-12-28 23:09:50,534	Batch Processor	INFO	Processing 5 scenarios:
+2020-12-28 23:09:50,534	Batch Processor	INFO	   1 DEU_Flensburg-43_1_T-1
+2020-12-28 23:09:50,534	Batch Processor	INFO	   2 DEU_Lohmar-20_1_T-1
+2020-12-28 23:09:50,534	Batch Processor	INFO	   3 DEU_Lohmar-48_1_T-1
+2020-12-28 23:09:50,534	Batch Processor	INFO	   4 GRC_Perama-4_3_T-1
+2020-12-28 23:09:50,534	Batch Processor	INFO	   5 ITA_Foggia-19_1_T-1
+2020-12-28 23:09:50,540	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 23:09:50,541	Batch Processor	INFO	Motion planner: student
+2020-12-28 23:09:50,550	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 23:10:21,133	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 23:10:21,134	Batch Processor	INFO	[DEU_Flensburg-43_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 23:10:21,134	Batch Processor	INFO	[DEU_Lohmar-20_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 23:10:21,134	Batch Processor	INFO	[DEU_Lohmar-48_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 23:10:21,135	Batch Processor	INFO	[GRC_Perama-4_3_T-1            ]	<SUCCESS>	 Time [ms]:	   845	
+2020-12-28 23:10:21,135	Batch Processor	INFO	[ITA_Foggia-19_1_T-1           ]	<FAILURE>	 Time [ms]:	   294
+2020-12-28 23:10:21,135	Batch Processor	INFO	==============================        Solution found        ==============================
+	- GRC_Perama-4_3_T-1
+2020-12-28 23:10:21,136	Batch Processor	INFO	==============================      Solution not found      ==============================
+	- ITA_Foggia-19_1_T-1
+2020-12-28 23:10:21,136	Batch Processor	INFO	==============================           Time out           ==============================
+	- DEU_Lohmar-20_1_T-1
+	- DEU_Flensburg-43_1_T-1
+	- DEU_Lohmar-48_1_T-1
+2020-12-28 23:10:21,136	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 23:10:21,136	Batch Processor	INFO	Total number of scenarios:  	         5
+2020-12-28 23:10:21,137	Batch Processor	INFO	Solution found:               	         1
+2020-12-28 23:10:21,137	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 23:10:21,137	Batch Processor	INFO	Solution not found:           	         1
+2020-12-28 23:10:21,137	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 23:10:21,137	Batch Processor	INFO	Time out:                     	         3

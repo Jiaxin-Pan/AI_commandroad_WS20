@@ -1,0 +1,34 @@
+2020-12-29 00:47:32,094	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-29 00:47:32,096	Batch Processor	INFO	18 scenarios skipped.
+2020-12-29 00:47:32,096	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2020-12-29 00:47:32,096	Batch Processor	INFO	Processing 5 scenarios:
+2020-12-29 00:47:32,096	Batch Processor	INFO	   1 DEU_Flensburg-14_1_T-1
+2020-12-29 00:47:32,096	Batch Processor	INFO	   2 DEU_Flensburg-94_1_T-1
+2020-12-29 00:47:32,096	Batch Processor	INFO	   3 ESP_Cambre-1_1_T-1
+2020-12-29 00:47:32,096	Batch Processor	INFO	   4 GRC_Perama-7_1_T-1
+2020-12-29 00:47:32,096	Batch Processor	INFO	   5 ITA_Empoli-10_1_T-1
+2020-12-29 00:47:32,103	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-29 00:47:32,103	Batch Processor	INFO	Motion planner: student
+2020-12-29 00:47:32,115	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-29 00:48:23,020	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-29 00:48:23,039	Batch Processor	INFO	[DEU_Flensburg-14_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 50000
+2020-12-29 00:48:23,040	Batch Processor	INFO	[DEU_Flensburg-94_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 50000
+2020-12-29 00:48:23,049	Batch Processor	INFO	[ESP_Cambre-1_1_T-1            ]	<SUCCESS>	 Time [ms]:	   396	
+2020-12-29 00:48:23,052	Batch Processor	INFO	[GRC_Perama-7_1_T-1            ]	<SUCCESS>	 Time [ms]:	   806	
+2020-12-29 00:48:23,053	Batch Processor	INFO	[ITA_Empoli-10_1_T-1           ]	<FAILURE>	 Time [ms]:	   580
+2020-12-29 00:48:23,053	Batch Processor	INFO	==============================        Solution found        ==============================
+	- ESP_Cambre-1_1_T-1
+	- GRC_Perama-7_1_T-1
+2020-12-29 00:48:23,053	Batch Processor	INFO	==============================      Solution not found      ==============================
+	- ITA_Empoli-10_1_T-1
+2020-12-29 00:48:23,054	Batch Processor	INFO	==============================           Time out           ==============================
+	- DEU_Flensburg-94_1_T-1
+	- DEU_Flensburg-14_1_T-1
+2020-12-29 00:48:23,054	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-29 00:48:23,054	Batch Processor	INFO	Total number of scenarios:  	         5
+2020-12-29 00:48:23,054	Batch Processor	INFO	Solution found:               	         2
+2020-12-29 00:48:23,054	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-29 00:48:23,054	Batch Processor	INFO	Solution not found:           	         1
+2020-12-29 00:48:23,055	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-29 00:48:23,055	Batch Processor	INFO	Time out:                     	         2

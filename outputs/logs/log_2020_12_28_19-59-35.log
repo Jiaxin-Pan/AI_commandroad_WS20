@@ -1,0 +1,117 @@
+2020-12-28 19:59:35,107	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 19:59:35,109	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 19:59:35,109	Batch Processor	INFO	ScenarioLoader Mode <SPECIFIC>
+2020-12-28 19:59:35,109	Batch Processor	INFO	Only run on specified scenarios:
+2020-12-28 19:59:35,109	Batch Processor	INFO	Processing 33 scenarios:
+2020-12-28 19:59:35,110	Batch Processor	INFO	   1 RUS_Bicycle-10_1_T-1
+2020-12-28 19:59:35,110	Batch Processor	INFO	   2 RUS_Bicycle-11_1_T-1
+2020-12-28 19:59:35,110	Batch Processor	INFO	   3 RUS_Bicycle-12_1_T-1
+2020-12-28 19:59:35,110	Batch Processor	INFO	   4 RUS_Bicycle-13_1_T-1
+2020-12-28 19:59:35,110	Batch Processor	INFO	   5 RUS_Bicycle-14_1_T-1
+2020-12-28 19:59:35,110	Batch Processor	INFO	   6 RUS_Bicycle-1_1_T-1
+2020-12-28 19:59:35,110	Batch Processor	INFO	   7 RUS_Bicycle-2_1_T-1
+2020-12-28 19:59:35,110	Batch Processor	INFO	   8 RUS_Bicycle-3_1_T-1
+2020-12-28 19:59:35,110	Batch Processor	INFO	   9 RUS_Bicycle-4_2_T-1
+2020-12-28 19:59:35,110	Batch Processor	INFO	  10 RUS_Bicycle-5_1_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  11 RUS_Bicycle-6_1_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  12 RUS_Bicycle-7_1_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  13 RUS_Bicycle-8_1_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  14 RUS_Bicycle-9_1_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  15 USA_Lanker-1_2_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  16 USA_Peach-1_1_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  17 USA_Peach-2_1_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  18 USA_Peach-3_1_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  19 USA_US101-10_4_T-1
+2020-12-28 19:59:35,111	Batch Processor	INFO	  20 USA_US101-11_4_T-1
+2020-12-28 19:59:35,112	Batch Processor	INFO	  21 USA_US101-12_1_T-1
+2020-12-28 19:59:35,112	Batch Processor	INFO	  22 USA_US101-14_1_T-1
+2020-12-28 19:59:35,112	Batch Processor	INFO	  23 USA_US101-15_1_T-1
+2020-12-28 19:59:35,112	Batch Processor	INFO	  24 USA_US101-17_1_T-1
+2020-12-28 19:59:35,112	Batch Processor	INFO	  25 USA_US101-22_4_T-1
+2020-12-28 19:59:35,112	Batch Processor	INFO	  26 USA_US101-27_1_T-1
+2020-12-28 19:59:35,112	Batch Processor	INFO	  27 USA_US101-28_1_T-1
+2020-12-28 19:59:35,112	Batch Processor	INFO	  28 USA_US101-29_1_T-1
+2020-12-28 19:59:35,112	Batch Processor	INFO	  29 USA_US101-3_1_T-1
+2020-12-28 19:59:35,113	Batch Processor	INFO	  30 USA_US101-4_1_T-1
+2020-12-28 19:59:35,113	Batch Processor	INFO	  31 USA_US101-5_1_T-1
+2020-12-28 19:59:35,113	Batch Processor	INFO	  32 USA_US101-6_1_T-1
+2020-12-28 19:59:35,113	Batch Processor	INFO	  33 USA_US101-9_1_T-1
+2020-12-28 19:59:35,118	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 19:59:35,119	Batch Processor	INFO	Motion planner: student
+2020-12-28 19:59:35,129	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 19:59:38,088	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 19:59:38,088	Batch Processor	INFO	[RUS_Bicycle-10_1_T-1          ]	<EXCEPTION>	
+2020-12-28 19:59:38,089	Batch Processor	INFO	[RUS_Bicycle-11_1_T-1          ]	<EXCEPTION>	
+2020-12-28 19:59:38,089	Batch Processor	INFO	[RUS_Bicycle-12_1_T-1          ]	<EXCEPTION>	
+2020-12-28 19:59:38,089	Batch Processor	INFO	[RUS_Bicycle-13_1_T-1          ]	<EXCEPTION>	
+2020-12-28 19:59:38,090	Batch Processor	INFO	[RUS_Bicycle-14_1_T-1          ]	<EXCEPTION>	
+2020-12-28 19:59:38,090	Batch Processor	INFO	[RUS_Bicycle-1_1_T-1           ]	<EXCEPTION>	
+2020-12-28 19:59:38,090	Batch Processor	INFO	[RUS_Bicycle-2_1_T-1           ]	<EXCEPTION>	
+2020-12-28 19:59:38,091	Batch Processor	INFO	[RUS_Bicycle-3_1_T-1           ]	<EXCEPTION>	
+2020-12-28 19:59:38,091	Batch Processor	INFO	[RUS_Bicycle-4_2_T-1           ]	<EXCEPTION>	
+2020-12-28 19:59:38,091	Batch Processor	INFO	[RUS_Bicycle-5_1_T-1           ]	<EXCEPTION>	
+2020-12-28 19:59:38,091	Batch Processor	INFO	[RUS_Bicycle-6_1_T-1           ]	<EXCEPTION>	
+2020-12-28 19:59:38,092	Batch Processor	INFO	[RUS_Bicycle-7_1_T-1           ]	<EXCEPTION>	
+2020-12-28 19:59:38,092	Batch Processor	INFO	[RUS_Bicycle-8_1_T-1           ]	<EXCEPTION>	
+2020-12-28 19:59:38,092	Batch Processor	INFO	[RUS_Bicycle-9_1_T-1           ]	<EXCEPTION>	
+2020-12-28 19:59:38,092	Batch Processor	INFO	[USA_Lanker-1_2_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,092	Batch Processor	INFO	[USA_Peach-1_1_T-1             ]	<EXCEPTION>	
+2020-12-28 19:59:38,093	Batch Processor	INFO	[USA_Peach-2_1_T-1             ]	<EXCEPTION>	
+2020-12-28 19:59:38,093	Batch Processor	INFO	[USA_Peach-3_1_T-1             ]	<EXCEPTION>	
+2020-12-28 19:59:38,093	Batch Processor	INFO	[USA_US101-10_4_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,093	Batch Processor	INFO	[USA_US101-11_4_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,094	Batch Processor	INFO	[USA_US101-12_1_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,094	Batch Processor	INFO	[USA_US101-14_1_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,094	Batch Processor	INFO	[USA_US101-15_1_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,094	Batch Processor	INFO	[USA_US101-17_1_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,094	Batch Processor	INFO	[USA_US101-22_4_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,095	Batch Processor	INFO	[USA_US101-27_1_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,095	Batch Processor	INFO	[USA_US101-28_1_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,095	Batch Processor	INFO	[USA_US101-29_1_T-1            ]	<EXCEPTION>	
+2020-12-28 19:59:38,095	Batch Processor	INFO	[USA_US101-3_1_T-1             ]	<EXCEPTION>	
+2020-12-28 19:59:38,096	Batch Processor	INFO	[USA_US101-4_1_T-1             ]	<EXCEPTION>	
+2020-12-28 19:59:38,096	Batch Processor	INFO	[USA_US101-5_1_T-1             ]	<EXCEPTION>	
+2020-12-28 19:59:38,096	Batch Processor	INFO	[USA_US101-6_1_T-1             ]	<EXCEPTION>	
+2020-12-28 19:59:38,096	Batch Processor	INFO	[USA_US101-9_1_T-1             ]	<EXCEPTION>	
+2020-12-28 19:59:38,097	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- RUS_Bicycle-11_1_T-1
+	- RUS_Bicycle-12_1_T-1
+	- RUS_Bicycle-10_1_T-1
+	- RUS_Bicycle-13_1_T-1
+	- RUS_Bicycle-14_1_T-1
+	- RUS_Bicycle-1_1_T-1
+	- RUS_Bicycle-3_1_T-1
+	- RUS_Bicycle-2_1_T-1
+	- RUS_Bicycle-4_2_T-1
+	- RUS_Bicycle-6_1_T-1
+	- RUS_Bicycle-7_1_T-1
+	- RUS_Bicycle-5_1_T-1
+	- RUS_Bicycle-9_1_T-1
+	- RUS_Bicycle-8_1_T-1
+	- USA_Peach-1_1_T-1
+	- USA_Peach-2_1_T-1
+	- USA_Peach-3_1_T-1
+	- USA_US101-11_4_T-1
+	- USA_Lanker-1_2_T-1
+	- USA_US101-10_4_T-1
+	- USA_US101-12_1_T-1
+	- USA_US101-14_1_T-1
+	- USA_US101-15_1_T-1
+	- USA_US101-17_1_T-1
+	- USA_US101-27_1_T-1
+	- USA_US101-29_1_T-1
+	- USA_US101-28_1_T-1
+	- USA_US101-22_4_T-1
+	- USA_US101-4_1_T-1
+	- USA_US101-3_1_T-1
+	- USA_US101-5_1_T-1
+	- USA_US101-6_1_T-1
+	- USA_US101-9_1_T-1
+2020-12-28 19:59:38,097	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 19:59:38,097	Batch Processor	INFO	Total number of scenarios:  	        33
+2020-12-28 19:59:38,097	Batch Processor	INFO	Solution found:               	         0
+2020-12-28 19:59:38,097	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 19:59:38,097	Batch Processor	INFO	Solution not found:           	         0
+2020-12-28 19:59:38,098	Batch Processor	INFO	Exception occurred:           	        33
+2020-12-28 19:59:38,098	Batch Processor	INFO	Time out:                     	         0

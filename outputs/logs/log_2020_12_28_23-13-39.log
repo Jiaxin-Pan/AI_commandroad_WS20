@@ -1,0 +1,20 @@
+2020-12-28 23:13:39,242	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 23:13:39,244	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 23:13:39,244	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2020-12-28 23:13:39,244	Batch Processor	INFO	Processing 1 scenarios:
+2020-12-28 23:13:39,244	Batch Processor	INFO	   1 DEU_Guetersloh-39_5_T-1
+2020-12-28 23:13:39,250	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 23:13:39,250	Batch Processor	INFO	Motion planner: student
+2020-12-28 23:13:39,260	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 23:13:40,616	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 23:13:40,617	Batch Processor	INFO	[DEU_Guetersloh-39_5_T-1       ]	<SUCCESS>	 Time [ms]:	   379	
+2020-12-28 23:13:40,617	Batch Processor	INFO	==============================        Solution found        ==============================
+	- DEU_Guetersloh-39_5_T-1
+2020-12-28 23:13:40,618	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 23:13:40,618	Batch Processor	INFO	Total number of scenarios:  	         1
+2020-12-28 23:13:40,618	Batch Processor	INFO	Solution found:               	         1
+2020-12-28 23:13:40,618	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 23:13:40,618	Batch Processor	INFO	Solution not found:           	         0
+2020-12-28 23:13:40,619	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 23:13:40,619	Batch Processor	INFO	Time out:                     	         0

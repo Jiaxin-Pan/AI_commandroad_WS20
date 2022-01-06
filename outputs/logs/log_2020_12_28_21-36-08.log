@@ -1,0 +1,21 @@
+2020-12-28 21:36:08,772	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 21:36:08,774	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 21:36:08,774	Batch Processor	INFO	ScenarioLoader Mode <SPECIFIC>
+2020-12-28 21:36:08,774	Batch Processor	INFO	Only run on specified scenarios:
+2020-12-28 21:36:08,774	Batch Processor	INFO	Processing 1 scenarios:
+2020-12-28 21:36:08,774	Batch Processor	INFO	   1 BEL_Nivelles-10_1_T-1
+2020-12-28 21:36:08,780	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 21:36:08,780	Batch Processor	INFO	Motion planner: student
+2020-12-28 21:36:08,789	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 21:36:09,659	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 21:36:09,662	Batch Processor	INFO	[BEL_Nivelles-10_1_T-1         ]	<SUCCESS>	 Time [ms]:	   228	
+2020-12-28 21:36:09,662	Batch Processor	INFO	==============================        Solution found        ==============================
+	- BEL_Nivelles-10_1_T-1
+2020-12-28 21:36:09,662	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 21:36:09,663	Batch Processor	INFO	Total number of scenarios:  	         1
+2020-12-28 21:36:09,663	Batch Processor	INFO	Solution found:               	         1
+2020-12-28 21:36:09,663	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 21:36:09,663	Batch Processor	INFO	Solution not found:           	         0
+2020-12-28 21:36:09,663	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 21:36:09,663	Batch Processor	INFO	Time out:                     	         0

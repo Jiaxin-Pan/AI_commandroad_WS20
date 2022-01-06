@@ -1,0 +1,20 @@
+2020-12-28 23:12:48,442	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 23:12:48,443	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 23:12:48,443	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2020-12-28 23:12:48,444	Batch Processor	INFO	Processing 1 scenarios:
+2020-12-28 23:12:48,444	Batch Processor	INFO	   1 DEU_Lohmar-14_1_T-1
+2020-12-28 23:12:48,449	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 23:12:48,450	Batch Processor	INFO	Motion planner: student
+2020-12-28 23:12:48,460	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 23:13:18,969	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 23:13:18,970	Batch Processor	INFO	[DEU_Lohmar-14_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 23:13:18,971	Batch Processor	INFO	==============================           Time out           ==============================
+	- DEU_Lohmar-14_1_T-1
+2020-12-28 23:13:18,971	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 23:13:18,971	Batch Processor	INFO	Total number of scenarios:  	         1
+2020-12-28 23:13:18,971	Batch Processor	INFO	Solution found:               	         0
+2020-12-28 23:13:18,971	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 23:13:18,971	Batch Processor	INFO	Solution not found:           	         0
+2020-12-28 23:13:18,971	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 23:13:18,972	Batch Processor	INFO	Time out:                     	         1

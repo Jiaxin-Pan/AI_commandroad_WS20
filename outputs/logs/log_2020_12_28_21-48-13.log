@@ -1,0 +1,28 @@
+2020-12-28 21:48:13,266	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 21:48:13,268	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 21:48:13,268	Batch Processor	INFO	ScenarioLoader Mode <SPECIFIC>
+2020-12-28 21:48:13,268	Batch Processor	INFO	Only run on specified scenarios:
+2020-12-28 21:48:13,268	Batch Processor	INFO	Processing 3 scenarios:
+2020-12-28 21:48:13,269	Batch Processor	INFO	   1 DEU_Flensburg-27_1_T-1
+2020-12-28 21:48:13,269	Batch Processor	INFO	   2 ITA_Scicli-2_1_T-1
+2020-12-28 21:48:13,269	Batch Processor	INFO	   3 USA_US101-9_1_T-1
+2020-12-28 21:48:13,273	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 21:48:13,273	Batch Processor	INFO	Motion planner: student
+2020-12-28 21:48:13,283	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 21:48:43,682	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 21:48:43,683	Batch Processor	INFO	[DEU_Flensburg-27_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:48:43,684	Batch Processor	INFO	[ITA_Scicli-2_1_T-1            ]	<SUCCESS>	 Time [ms]:	  1025	
+2020-12-28 21:48:43,684	Batch Processor	INFO	[USA_US101-9_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 21:48:43,685	Batch Processor	INFO	==============================        Solution found        ==============================
+	- ITA_Scicli-2_1_T-1
+2020-12-28 21:48:43,685	Batch Processor	INFO	==============================           Time out           ==============================
+	- USA_US101-9_1_T-1
+	- DEU_Flensburg-27_1_T-1
+2020-12-28 21:48:43,685	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 21:48:43,685	Batch Processor	INFO	Total number of scenarios:  	         3
+2020-12-28 21:48:43,685	Batch Processor	INFO	Solution found:               	         1
+2020-12-28 21:48:43,686	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 21:48:43,686	Batch Processor	INFO	Solution not found:           	         0
+2020-12-28 21:48:43,686	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 21:48:43,686	Batch Processor	INFO	Time out:                     	         2

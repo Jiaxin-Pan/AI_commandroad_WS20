@@ -1,0 +1,117 @@
+2020-12-28 20:01:53,042	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 20:01:53,044	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 20:01:53,044	Batch Processor	INFO	ScenarioLoader Mode <SPECIFIC>
+2020-12-28 20:01:53,044	Batch Processor	INFO	Only run on specified scenarios:
+2020-12-28 20:01:53,045	Batch Processor	INFO	Processing 33 scenarios:
+2020-12-28 20:01:53,045	Batch Processor	INFO	   1 RUS_Bicycle-10_1_T-1
+2020-12-28 20:01:53,045	Batch Processor	INFO	   2 RUS_Bicycle-11_1_T-1
+2020-12-28 20:01:53,045	Batch Processor	INFO	   3 RUS_Bicycle-12_1_T-1
+2020-12-28 20:01:53,045	Batch Processor	INFO	   4 RUS_Bicycle-13_1_T-1
+2020-12-28 20:01:53,046	Batch Processor	INFO	   5 RUS_Bicycle-14_1_T-1
+2020-12-28 20:01:53,046	Batch Processor	INFO	   6 RUS_Bicycle-1_1_T-1
+2020-12-28 20:01:53,046	Batch Processor	INFO	   7 RUS_Bicycle-2_1_T-1
+2020-12-28 20:01:53,046	Batch Processor	INFO	   8 RUS_Bicycle-3_1_T-1
+2020-12-28 20:01:53,046	Batch Processor	INFO	   9 RUS_Bicycle-4_2_T-1
+2020-12-28 20:01:53,046	Batch Processor	INFO	  10 RUS_Bicycle-5_1_T-1
+2020-12-28 20:01:53,047	Batch Processor	INFO	  11 RUS_Bicycle-6_1_T-1
+2020-12-28 20:01:53,047	Batch Processor	INFO	  12 RUS_Bicycle-7_1_T-1
+2020-12-28 20:01:53,047	Batch Processor	INFO	  13 RUS_Bicycle-8_1_T-1
+2020-12-28 20:01:53,047	Batch Processor	INFO	  14 RUS_Bicycle-9_1_T-1
+2020-12-28 20:01:53,047	Batch Processor	INFO	  15 USA_Lanker-1_2_T-1
+2020-12-28 20:01:53,047	Batch Processor	INFO	  16 USA_Peach-1_1_T-1
+2020-12-28 20:01:53,047	Batch Processor	INFO	  17 USA_Peach-2_1_T-1
+2020-12-28 20:01:53,048	Batch Processor	INFO	  18 USA_Peach-3_1_T-1
+2020-12-28 20:01:53,048	Batch Processor	INFO	  19 USA_US101-10_4_T-1
+2020-12-28 20:01:53,048	Batch Processor	INFO	  20 USA_US101-11_4_T-1
+2020-12-28 20:01:53,048	Batch Processor	INFO	  21 USA_US101-12_1_T-1
+2020-12-28 20:01:53,048	Batch Processor	INFO	  22 USA_US101-14_1_T-1
+2020-12-28 20:01:53,048	Batch Processor	INFO	  23 USA_US101-15_1_T-1
+2020-12-28 20:01:53,049	Batch Processor	INFO	  24 USA_US101-17_1_T-1
+2020-12-28 20:01:53,049	Batch Processor	INFO	  25 USA_US101-22_4_T-1
+2020-12-28 20:01:53,049	Batch Processor	INFO	  26 USA_US101-27_1_T-1
+2020-12-28 20:01:53,049	Batch Processor	INFO	  27 USA_US101-28_1_T-1
+2020-12-28 20:01:53,049	Batch Processor	INFO	  28 USA_US101-29_1_T-1
+2020-12-28 20:01:53,050	Batch Processor	INFO	  29 USA_US101-3_1_T-1
+2020-12-28 20:01:53,050	Batch Processor	INFO	  30 USA_US101-4_1_T-1
+2020-12-28 20:01:53,050	Batch Processor	INFO	  31 USA_US101-5_1_T-1
+2020-12-28 20:01:53,050	Batch Processor	INFO	  32 USA_US101-6_1_T-1
+2020-12-28 20:01:53,050	Batch Processor	INFO	  33 USA_US101-9_1_T-1
+2020-12-28 20:01:53,055	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 20:01:53,056	Batch Processor	INFO	Motion planner: student
+2020-12-28 20:01:53,067	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 20:05:00,850	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 20:05:00,857	Batch Processor	INFO	[RUS_Bicycle-10_1_T-1          ]	<SUCCESS>	 Time [ms]:	   185	
+2020-12-28 20:05:00,859	Batch Processor	INFO	[RUS_Bicycle-11_1_T-1          ]	<SUCCESS>	 Time [ms]:	   243	
+2020-12-28 20:05:00,860	Batch Processor	INFO	[RUS_Bicycle-12_1_T-1          ]	<SUCCESS>	 Time [ms]:	   539	
+2020-12-28 20:05:00,862	Batch Processor	INFO	[RUS_Bicycle-13_1_T-1          ]	<SUCCESS>	 Time [ms]:	   143	
+2020-12-28 20:05:00,863	Batch Processor	INFO	[RUS_Bicycle-14_1_T-1          ]	<SUCCESS>	 Time [ms]:	   217	
+2020-12-28 20:05:00,864	Batch Processor	INFO	[RUS_Bicycle-1_1_T-1           ]	<SUCCESS>	 Time [ms]:	   145	
+2020-12-28 20:05:00,865	Batch Processor	INFO	[RUS_Bicycle-2_1_T-1           ]	<SUCCESS>	 Time [ms]:	   176	
+2020-12-28 20:05:00,865	Batch Processor	INFO	[RUS_Bicycle-3_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,866	Batch Processor	INFO	[RUS_Bicycle-4_2_T-1           ]	<SUCCESS>	 Time [ms]:	   374	
+2020-12-28 20:05:00,868	Batch Processor	INFO	[RUS_Bicycle-5_1_T-1           ]	<SUCCESS>	 Time [ms]:	   250	
+2020-12-28 20:05:00,869	Batch Processor	INFO	[RUS_Bicycle-6_1_T-1           ]	<SUCCESS>	 Time [ms]:	   716	
+2020-12-28 20:05:00,870	Batch Processor	INFO	[RUS_Bicycle-7_1_T-1           ]	<SUCCESS>	 Time [ms]:	   421	
+2020-12-28 20:05:00,871	Batch Processor	INFO	[RUS_Bicycle-8_1_T-1           ]	<SUCCESS>	 Time [ms]:	   148	
+2020-12-28 20:05:00,872	Batch Processor	INFO	[RUS_Bicycle-9_1_T-1           ]	<SUCCESS>	 Time [ms]:	   204	
+2020-12-28 20:05:00,875	Batch Processor	INFO	[USA_Lanker-1_2_T-1            ]	<SUCCESS>	 Time [ms]:	  5124	
+2020-12-28 20:05:00,877	Batch Processor	INFO	[USA_Peach-1_1_T-1             ]	<SUCCESS>	 Time [ms]:	   463	
+2020-12-28 20:05:00,878	Batch Processor	INFO	[USA_Peach-2_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,878	Batch Processor	INFO	[USA_Peach-3_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,879	Batch Processor	INFO	[USA_US101-10_4_T-1            ]	<FAILURE>	 Time [ms]:	  7700
+2020-12-28 20:05:00,879	Batch Processor	INFO	[USA_US101-11_4_T-1            ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,879	Batch Processor	INFO	[USA_US101-12_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,880	Batch Processor	INFO	[USA_US101-14_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,880	Batch Processor	INFO	[USA_US101-15_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,880	Batch Processor	INFO	[USA_US101-22_4_T-1            ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,881	Batch Processor	INFO	[USA_US101-27_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,881	Batch Processor	INFO	[USA_US101-28_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,881	Batch Processor	INFO	[USA_US101-29_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,881	Batch Processor	INFO	[USA_US101-3_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,882	Batch Processor	INFO	[USA_US101-4_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,882	Batch Processor	INFO	[USA_US101-5_1_T-1             ]	<FAILURE>	 Time [ms]:	   276
+2020-12-28 20:05:00,882	Batch Processor	INFO	[USA_US101-6_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,883	Batch Processor	INFO	[USA_US101-9_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 60000
+2020-12-28 20:05:00,883	Batch Processor	INFO	==============================        Solution found        ==============================
+	- RUS_Bicycle-11_1_T-1
+	- RUS_Bicycle-1_1_T-1
+	- RUS_Bicycle-14_1_T-1
+	- RUS_Bicycle-13_1_T-1
+	- RUS_Bicycle-10_1_T-1
+	- RUS_Bicycle-12_1_T-1
+	- RUS_Bicycle-2_1_T-1
+	- RUS_Bicycle-5_1_T-1
+	- RUS_Bicycle-7_1_T-1
+	- RUS_Bicycle-4_2_T-1
+	- RUS_Bicycle-6_1_T-1
+	- RUS_Bicycle-8_1_T-1
+	- RUS_Bicycle-9_1_T-1
+	- USA_Peach-1_1_T-1
+	- USA_Lanker-1_2_T-1
+2020-12-28 20:05:00,883	Batch Processor	INFO	==============================      Solution not found      ==============================
+	- USA_US101-10_4_T-1
+	- USA_US101-5_1_T-1
+2020-12-28 20:05:00,884	Batch Processor	INFO	==============================           Time out           ==============================
+	- RUS_Bicycle-3_1_T-1
+	- USA_Peach-3_1_T-1
+	- USA_Peach-2_1_T-1
+	- USA_US101-11_4_T-1
+	- USA_US101-12_1_T-1
+	- USA_US101-14_1_T-1
+	- USA_US101-15_1_T-1
+	- USA_US101-22_4_T-1
+	- USA_US101-27_1_T-1
+	- USA_US101-28_1_T-1
+	- USA_US101-29_1_T-1
+	- USA_US101-3_1_T-1
+	- USA_US101-4_1_T-1
+	- USA_US101-6_1_T-1
+	- USA_US101-9_1_T-1
+2020-12-28 20:05:00,884	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 20:05:00,884	Batch Processor	INFO	Total number of scenarios:  	        33
+2020-12-28 20:05:00,884	Batch Processor	INFO	Solution found:               	        15
+2020-12-28 20:05:00,885	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 20:05:00,885	Batch Processor	INFO	Solution not found:           	         2
+2020-12-28 20:05:00,885	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 20:05:00,885	Batch Processor	INFO	Time out:                     	        15

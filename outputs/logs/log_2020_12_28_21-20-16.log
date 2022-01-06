@@ -1,0 +1,9 @@
+2020-12-28 21:20:16,198	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 21:20:16,200	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 21:20:16,200	Batch Processor	INFO	ScenarioLoader Mode <SPECIFIC>
+2020-12-28 21:20:16,200	Batch Processor	INFO	Only run on specified scenarios:
+2020-12-28 21:20:16,200	Batch Processor	INFO	Processing 1 scenarios:
+2020-12-28 21:20:16,200	Batch Processor	INFO	   1 USA_US101-9_1_T-1
+2020-12-28 21:20:16,205	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 21:20:16,205	Batch Processor	INFO	Motion planner: student
+2020-12-28 21:20:16,215	Batch Processor	INFO	Number of parallel processes: 6

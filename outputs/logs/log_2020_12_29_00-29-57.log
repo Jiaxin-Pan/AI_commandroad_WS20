@@ -1,0 +1,49 @@
+2020-12-29 00:29:57,380	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-29 00:29:57,381	Batch Processor	INFO	18 scenarios skipped.
+2020-12-29 00:29:57,381	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2020-12-29 00:29:57,382	Batch Processor	INFO	Processing 10 scenarios:
+2020-12-29 00:29:57,382	Batch Processor	INFO	   1 DEU_Flensburg-14_1_T-1
+2020-12-29 00:29:57,382	Batch Processor	INFO	   2 DEU_Guetersloh-40_4_T-1
+2020-12-29 00:29:57,382	Batch Processor	INFO	   3 DEU_Lohmar-31_1_T-1
+2020-12-29 00:29:57,382	Batch Processor	INFO	   4 DEU_Lohmar-42_1_T-1
+2020-12-29 00:29:57,382	Batch Processor	INFO	   5 DEU_Muehlhausen-7_2_T-1
+2020-12-29 00:29:57,382	Batch Processor	INFO	   6 ESP_Inca-3_2_T-1
+2020-12-29 00:29:57,383	Batch Processor	INFO	   7 ESP_PriegodeCordoba-6_1_T-1
+2020-12-29 00:29:57,383	Batch Processor	INFO	   8 ITA_Empoli-10_1_T-1
+2020-12-29 00:29:57,383	Batch Processor	INFO	   9 USA_Lanker-1_2_T-1
+2020-12-29 00:29:57,383	Batch Processor	INFO	  10 USA_US101-8_4_T-1
+2020-12-29 00:29:57,389	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-29 00:29:57,389	Batch Processor	INFO	Motion planner: student
+2020-12-29 00:29:57,399	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-29 00:31:38,392	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-29 00:31:38,410	Batch Processor	INFO	[DEU_Flensburg-14_1_T-1        ]	<TIMEOUT>	 Time [ms]:	100000
+2020-12-29 00:31:38,421	Batch Processor	INFO	[DEU_Guetersloh-40_4_T-1       ]	<SUCCESS>	 Time [ms]:	   492	
+2020-12-29 00:31:38,423	Batch Processor	INFO	[DEU_Lohmar-31_1_T-1           ]	<TIMEOUT>	 Time [ms]:	100000
+2020-12-29 00:31:38,424	Batch Processor	INFO	[DEU_Lohmar-42_1_T-1           ]	<TIMEOUT>	 Time [ms]:	100000
+2020-12-29 00:31:38,426	Batch Processor	INFO	[DEU_Muehlhausen-7_2_T-1       ]	<SUCCESS>	 Time [ms]:	   659	
+2020-12-29 00:31:38,427	Batch Processor	INFO	[ESP_Inca-3_2_T-1              ]	<FAILURE>	 Time [ms]:	   472
+2020-12-29 00:31:38,429	Batch Processor	INFO	[ESP_PriegodeCordoba-6_1_T-1   ]	<SUCCESS>	 Time [ms]:	  1290	
+2020-12-29 00:31:38,430	Batch Processor	INFO	[ITA_Empoli-10_1_T-1           ]	<FAILURE>	 Time [ms]:	   953
+2020-12-29 00:31:38,435	Batch Processor	INFO	[USA_Lanker-1_2_T-1            ]	<SUCCESS>	 Time [ms]:	   679	
+2020-12-29 00:31:38,445	Batch Processor	INFO	[USA_US101-8_4_T-1             ]	<SUCCESS>	 Time [ms]:	   467	
+2020-12-29 00:31:38,447	Batch Processor	INFO	==============================        Solution found        ==============================
+	- DEU_Guetersloh-40_4_T-1
+	- DEU_Muehlhausen-7_2_T-1
+	- ESP_PriegodeCordoba-6_1_T-1
+	- USA_US101-8_4_T-1
+	- USA_Lanker-1_2_T-1
+2020-12-29 00:31:38,448	Batch Processor	INFO	==============================      Solution not found      ==============================
+	- ESP_Inca-3_2_T-1
+	- ITA_Empoli-10_1_T-1
+2020-12-29 00:31:38,449	Batch Processor	INFO	==============================           Time out           ==============================
+	- DEU_Lohmar-42_1_T-1
+	- DEU_Flensburg-14_1_T-1
+	- DEU_Lohmar-31_1_T-1
+2020-12-29 00:31:38,449	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-29 00:31:38,449	Batch Processor	INFO	Total number of scenarios:  	        10
+2020-12-29 00:31:38,450	Batch Processor	INFO	Solution found:               	         5
+2020-12-29 00:31:38,450	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-29 00:31:38,451	Batch Processor	INFO	Solution not found:           	         2
+2020-12-29 00:31:38,451	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-29 00:31:38,451	Batch Processor	INFO	Time out:                     	         3

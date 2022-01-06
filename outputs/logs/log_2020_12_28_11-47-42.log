@@ -1,0 +1,29 @@
+2020-12-28 11:47:42,107	Sequential Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 11:47:42,109	Sequential Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 11:47:42,109	Sequential Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2020-12-28 11:47:42,109	Sequential Batch Processor	INFO	Processing 3 scenarios:
+2020-12-28 11:47:42,110	Sequential Batch Processor	INFO	   1 BEL_Aarschot-6_1_T-1
+2020-12-28 11:47:42,110	Sequential Batch Processor	INFO	   2 ESP_SantBoideLlobregat-6_2_T-1
+2020-12-28 11:47:42,110	Sequential Batch Processor	INFO	   3 ITA_Empoli-8_2_T-1
+2020-12-28 11:47:42,115	Sequential Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 11:47:42,116	Sequential Batch Processor	INFO	Motion planner: astar
+2020-12-28 11:47:42,116	Sequential Batch Processor	DEBUG	Start processing [BEL_Aarschot-6_1_T-1          ]
+2020-12-28 11:47:42,589	Sequential Batch Processor	DEBUG	Start processing [ESP_SantBoideLlobregat-6_2_T-1]
+2020-12-28 11:47:45,896	Sequential Batch Processor	DEBUG	Start processing [ITA_Empoli-8_2_T-1            ]
+2020-12-28 11:47:47,811	Sequential Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 11:47:47,811	Sequential Batch Processor	INFO	[BEL_Aarschot-6_1_T-1          ]	<FAILURE>	 Time [ms]:	   363
+2020-12-28 11:47:47,811	Sequential Batch Processor	INFO	[ESP_SantBoideLlobregat-6_2_T-1]	<SUCCESS>	 Time [ms]:	  1025	
+2020-12-28 11:47:47,811	Sequential Batch Processor	INFO	[ITA_Empoli-8_2_T-1            ]	<SUCCESS>	 Time [ms]:	   500	
+2020-12-28 11:47:47,811	Sequential Batch Processor	INFO	==============================        Solution found        ==============================
+	- ESP_SantBoideLlobregat-6_2_T-1
+	- ITA_Empoli-8_2_T-1
+2020-12-28 11:47:47,811	Sequential Batch Processor	INFO	==============================      Solution not found      ==============================
+	- BEL_Aarschot-6_1_T-1
+2020-12-28 11:47:47,812	Sequential Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 11:47:47,812	Sequential Batch Processor	INFO	Total number of scenarios:  	         3
+2020-12-28 11:47:47,812	Sequential Batch Processor	INFO	Solution found:               	         2
+2020-12-28 11:47:47,812	Sequential Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 11:47:47,812	Sequential Batch Processor	INFO	Solution not found:           	         1
+2020-12-28 11:47:47,812	Sequential Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 11:47:47,812	Sequential Batch Processor	INFO	Time out:                     	         0

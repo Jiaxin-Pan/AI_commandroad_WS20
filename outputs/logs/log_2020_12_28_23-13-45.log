@@ -1,0 +1,20 @@
+2020-12-28 23:13:45,107	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 23:13:45,109	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 23:13:45,109	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2020-12-28 23:13:45,109	Batch Processor	INFO	Processing 1 scenarios:
+2020-12-28 23:13:45,110	Batch Processor	INFO	   1 ESP_Inca-7_1_T-1
+2020-12-28 23:13:45,114	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 23:13:45,114	Batch Processor	INFO	Motion planner: student
+2020-12-28 23:13:45,124	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 23:13:46,608	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 23:13:46,610	Batch Processor	INFO	[ESP_Inca-7_1_T-1              ]	<SUCCESS>	 Time [ms]:	   846	
+2020-12-28 23:13:46,610	Batch Processor	INFO	==============================        Solution found        ==============================
+	- ESP_Inca-7_1_T-1
+2020-12-28 23:13:46,611	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 23:13:46,611	Batch Processor	INFO	Total number of scenarios:  	         1
+2020-12-28 23:13:46,611	Batch Processor	INFO	Solution found:               	         1
+2020-12-28 23:13:46,611	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 23:13:46,611	Batch Processor	INFO	Solution not found:           	         0
+2020-12-28 23:13:46,611	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 23:13:46,612	Batch Processor	INFO	Time out:                     	         0
